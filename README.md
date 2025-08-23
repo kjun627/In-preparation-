@@ -37,7 +37,7 @@
 
 | Reference Style | Result | Depth Map |
 |:---:|:---:|:---:|
-| ![Style Image](images/style_cubes.jpg)<br>*3D colorful cubes pattern* | ![Stylized Result](images/result_cubes.jpg)<br>*Stylized with cube geometry* | ![Result Depth](images/result_depth.jpg)<br>*Geometric transformation* |
+| ![Style Image](images/style_cube.jpg)<br>*3D colorful cubes pattern* | ![Stylized Result](images/result_cubes.jpg)<br>*Stylized with cube geometry* | ![Result Depth](images/result_depth.jpg)<br>*Geometric transformation* |
 
 ---
 
@@ -45,4 +45,4 @@
 
 | Reference Style | Result | Depth Map |
 |:---:|:---:|:---:|
-| ![Wave Style](images/style_waves.jpg)<br>*Traditional Japanese wave pattern* | ![Wave Style Result](images/result_waves.jpg)<br>*Organic curved deformation* | ![Wave Depth](images/wave_depth.jpg)<br>*Wave-like transformation* |
+| ![Wave Style](images/style_wave.jpg)<br>*Traditional Japanese wave pattern* | ![Wave Style Result](images/result_wave.jpg)<br>*Organic curved deformation* | ![Wave Depth](images/wave_depth.jpg)<br>*Wave-like transformation* |
