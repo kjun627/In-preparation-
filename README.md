@@ -45,7 +45,7 @@
 </td>
 <td width="37.5%">
 
-![Stylized Result](images/result_cube.jpg)
+![Stylized Result](images/result_cubes.jpg)
 *Stylized result*
 
 </td>
