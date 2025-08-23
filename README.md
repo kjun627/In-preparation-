@@ -35,22 +35,52 @@
 
 ### 🧊 **Cube Style Transfer**
 
-<img src="images/style_cube.jpg" width="300">
+<table>
+<tr>
+<td width="25%">
 
-*Reference style: 3D colorful cubes pattern*
+![Style Image](images/style_cube.jpg)
+*Reference style*
 
-| Result | Depth Map |
-|:---:|:---:|
-| ![Stylized Result](images/result_cube.jpg)<br>*Stylized with cube geometry* | ![Result Depth](images/result_depth.jpg)<br>*Geometric transformation* |
+</td>
+<td width="37.5%">
+
+![Stylized Result](images/result_cube.jpg)
+*Stylized result*
+
+</td>
+<td width="37.5%">
+
+![Result Depth](images/result_depth.jpg)
+*Depth map*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌊 **Wave Style Transfer** 
 
-<img src="images/style_wave.jpg" width="300">
+<table>
+<tr>
+<td width="25%">
 
-*Reference style: Traditional Japanese wave pattern*
+![Wave Style](images/style_wave.jpg)
+*Reference style*
 
-| Result | Depth Map |
-|:---:|:---:|
-| ![Wave Style Result](images/result_wave.jpg)<br>*Organic curved deformation* | ![Wave Depth](images/wave_depth.jpg)<br>*Wave-like transformation* |
+</td>
+<td width="37.5%">
+
+![Wave Style Result](images/result_wave.jpg)
+*Stylized result*
+
+</td>
+<td width="37.5%">
+
+![Wave Depth](images/wave_depth.jpg)
+*Depth map*
+
+</td>
+</tr>
+</table>
