@@ -6,7 +6,7 @@
 
 ## 📖 About
 
-본 연구는 기존 3D style transfer 방법과 달리, 스타일 이미지의 특성에 따라 **3D 장면의 기하학적 구조까지 함께 변형**시키는 새로운 접근법을 제안합니다.
+본 연구는 기존 3D style transfer 방법과 달리, 스타일 이미지의 특성에 따라 **3D 장면의 기하학적 구조까지 함께 변형**시키는 새로운 접근법을 제안.
 
 ---
 
@@ -35,9 +35,9 @@
 
 ### 🧊 **Cube Style Transfer**
 
-**Reference Style**
-![Style Image](images/style_cube.jpg)
-*3D colorful cubes pattern*
+<img src="images/style_cube.jpg" width="300">
+
+*Reference style: 3D colorful cubes pattern*
 
 | Result | Depth Map |
 |:---:|:---:|
@@ -47,9 +47,9 @@
 
 ### 🌊 **Wave Style Transfer** 
 
-**Reference Style**
-![Wave Style](images/style_wave.jpg)
-*Traditional Japanese wave pattern*
+<img src="images/style_wave.jpg" width="300">
+
+*Reference style: Traditional Japanese wave pattern*
 
 | Result | Depth Map |
 |:---:|:---:|
